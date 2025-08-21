@@ -1,0 +1,2 @@
+# libconfsec
+libconfsec release repository
